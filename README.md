@@ -1,3 +1,2 @@
-# Arch-Setup
-
-Basic arch setup with Hyprland
+# Hyprland dotfiles
+arch linux
